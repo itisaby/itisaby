@@ -50,9 +50,9 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
+ 
 ### Language I am Familiar With : 
+
 
 ### Front End : 
 
@@ -62,7 +62,7 @@
 <br />
 <br />
 
-### Here's my github README stats:
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 ![Arnab-2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=arnab-2001&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnab-2001&theme=radical)](https://git.io/streak-stats) 
