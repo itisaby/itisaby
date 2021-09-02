@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArnabMaity_01)]
 
 ## I'm a CS Enthusiast!!
 
@@ -18,6 +18,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg />][Gmail]
 
 <br />
 
@@ -48,4 +49,5 @@
 [twitter]: https://twitter.com/ArnabMaity_01
 [instagram]: https://www.instagram.com/i_am_arnab_01/
 [linkedin]: https://www.linkedin.com/in/arnab-maity01/
+[Gmail]: mailto:arnabbibhuti01@gmail.com
 
