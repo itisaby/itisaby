@@ -1,7 +1,10 @@
-<h1 align="center">HI There !<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=18F768&size=40&lines=Hey!+it's+Arnab!;I'm+a+learning+developer+;I'm+a+proud+GitHub+User;I+just+love+to+collab+and+contribute+to+Open+Source+Projects)](https://git.io/typing-svg)
 
 ## I'm a CS Enthusiast!!
 
