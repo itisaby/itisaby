@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArnabMaity_01)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I'm a CS Enthusiast!!
 
