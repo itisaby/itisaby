@@ -23,6 +23,12 @@
 
 ### Languages and Tools:
 
+## Language I am Familiar With : 
+
+## Front End : 
+
+## Back End :
+
 
 <br />
 <br />
@@ -40,6 +46,6 @@
 
 
 [twitter]: https://twitter.com/ArnabMaity_01
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/i_am_arnab_01/
 [linkedin]: https://www.linkedin.com/in/arnab-maity01/
 
