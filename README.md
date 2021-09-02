@@ -1,4 +1,4 @@
-![Hey there, I'm Arnab. I'm a CS Enthusiast, Aspiring Coder . Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<h1 align="center">HI There !<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
