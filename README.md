@@ -39,6 +39,8 @@
 
 ![Arnab-2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=arnab-2001&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnab-2001&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages Used:](https://github-readme-stats.vercel.app/api/top-langs?username=arnab-2001&show_icons=true&locale=en&layout=compact)](https://git.io/streak-stats) 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnab-2001)](https://github.com/ryo-ma/github-profile-trophy)
 
 
