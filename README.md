@@ -1,5 +1,4 @@
-### Hi there! I am Arnab 
-
+<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
