@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=18F768&size=40&lines=Hey!+it's+Arnab!;I'm+a+learning+developer+;I'm+a+proud+GitHub+User;I+just+love+to+collab+and+contribute+to+Open+Source+Projects)](https://git.io/typing-svg)
 
-## I'm a CS Enthusiast!!
+## Some Fun Facts about me!!
 
 - 🔭 I'm a BTech Junior Year Undergrad....
 - 🌱 I’m currently learning everything .... Lol XD
@@ -34,6 +34,12 @@
 
 <br />
 <br />
+
+### Here's my github README stats:
+
+![Arnab-2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=arnab-2001&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnab-2001&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arnab-2001)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
