@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1FF749&size=30&width=500&lines=Hey!+it's+Arnab!;I'm+a+learning+Developer!;Love+to+Contribute+in+Open+Source;Proud+GitHub+User+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1FF749&size=30&width=500&lines=Hey!+it's+Arnab!;I'm+a+learning+Developer!;Love+to+Contribute+in+Open+Source;Proud+GitHub+User+%3A)](https://git.io/typing-svg)
 
 ## Some Fun Facts about me!!
 
