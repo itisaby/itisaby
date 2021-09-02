@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+![Hey there, I'm Arnab. I'm a CS Enthusiast, Aspiring Coder . Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
@@ -11,23 +11,22 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton and workout
 
-### Connect with me:
+## Connect with me:
 
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg />][Gmail]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-## Language I am Familiar With : 
+### Language I am Familiar With : 
 
-## Front End : 
+### Front End : 
 
-## Back End :
+### Back End :
 
 
 <br />
