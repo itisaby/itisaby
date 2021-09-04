@@ -59,6 +59,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /> 
 
 <br>
+
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Dev Ops...***
 <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />
@@ -70,6 +72,7 @@
 
 <br />
 <br />
+
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">###Git Activeness</b></i></p>
 
