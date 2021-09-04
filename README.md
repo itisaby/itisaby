@@ -25,7 +25,7 @@
 
 ## Languages and Tools:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages I am familiar with...*** 
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Front End...***
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Back End...***
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">Git Activeness</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">###Git Activeness</b></i></p>
 
 ![Arnab-2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=arnab-2001&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnab-2001&theme=radical&hide_border=true)](https://git.io/streak-stats)
