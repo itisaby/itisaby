@@ -111,7 +111,7 @@
 
 
 [twitter]: https://twitter.com/ArnabMaity_01
-[instagram]: https://www.instagram.com/i_am_arnab_01/
+[instagram]: https://www.instagram.com/i_am_aby_01/
 [linkedin]: https://www.linkedin.com/in/arnab-maity01/
 [Gmail]: mailto:arnabbibhuti01@gmail.com
 
