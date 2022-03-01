@@ -11,7 +11,7 @@
 - 🔭 I'm a BTech Junior Year Undergrad....
 - 🌱 I’m currently learning everything .... Lol XD
 - 👯 I’m looking to collaborate with other developers to work on a Mega Project
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton ....
 
 ## Connect with me:
