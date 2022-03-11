@@ -1,7 +1,7 @@
 # Hey all! <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "30" height= "30"> <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArnabMaity_01?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArnabMaity_01)]
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1FF749&size=30&width=500&lines=Hey!+it's+Arnab!;I'm+a+learning+Developer!;Love+to+Contribute+in+Open+Source;Proud+GitHub+User+%3A)](https://git.io/typing-svg)
@@ -91,7 +91,7 @@
 
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">Git Activeness</b></i></p>
-
+![watch](https://img.shields.io/github/watchers/itisaby/itisaby?style=social)
 ![itisaby GitHub stats](https://github-readme-stats.vercel.app/api?username=itisaby&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itisaby&theme=radical)](https://git.io/streak-stats)
 [![Most Languages Used:](https://github-readme-stats.vercel.app/api/top-langs?username=itisaby&show_icons=&theme=radical&layout=compact)](https://git.io/streak-stats) 
