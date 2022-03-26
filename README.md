@@ -21,7 +21,8 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Kaggle]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 <br />
 
 ## Languages and Tools:<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
@@ -118,4 +119,5 @@
 [instagram]: https://www.instagram.com/_itisaby_/
 [linkedin]: https://www.linkedin.com/in/arnab-maity01/
 [Gmail]: mailto:arnabbibhuti01@gmail.com
-
+[Kaggle]: https://www.kaggle.com/arnabmaity01
+[leetcode]: https://leetcode.com/itisaby/
