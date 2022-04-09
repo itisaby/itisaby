@@ -116,7 +116,7 @@
 
 
 [twitter]: https://twitter.com/ArnabMaity_01
-[instagram]: https://www.instagram.com/_itisaby_/
+[instagram]: https://www.instagram.com/abycode_101/
 [linkedin]: https://www.linkedin.com/in/arnab-maity01/
 [Gmail]: mailto:arnabbibhuti01@gmail.com
 [Kaggle]: https://www.kaggle.com/arnabmaity01
