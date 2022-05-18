@@ -102,7 +102,7 @@
 
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">Git Activeness</b></i></p>
-![watch](https://img.shields.io/github/watchers/itisaby/itisaby?style=social)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=itisaby.itisaby)
 ![itisaby GitHub stats](https://github-readme-stats.vercel.app/api?username=itisaby&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itisaby&theme=radical)](https://git.io/streak-stats)
 [![Most Languages Used:](https://github-readme-stats.vercel.app/api/top-langs?username=itisaby&show_icons=&theme=radical&layout=compact)](https://git.io/streak-stats) 
