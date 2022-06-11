@@ -25,8 +25,10 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 <br />
 
-## Languages and Tools:<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages I am familiar with...*** 
+## Languages and Tools:
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> -->
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***Languages I am familiar with...*** 
 <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />
@@ -40,8 +42,10 @@
 
 <br>
 
-## Development Toolbox:<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Front End...***
+## Development Toolbox:
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> -->
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***Front End...***
 
 <br>
 
@@ -57,7 +61,8 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Back End...***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***Back End...***
 <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
@@ -70,7 +75,8 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Dev Ops...***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***Dev Ops...***
 <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="40" />
@@ -83,8 +89,10 @@
 <br>
 
 
-## Machine Learning ToolBox<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Proficient with...***
+## Machine Learning ToolBox
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> -->
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
+***Proficient with...***
 <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />
@@ -101,7 +109,8 @@
 <br />
 
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b height="50px">Git Activeness</b></i></p>
+<!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/> -->
+&nbsp;<i><b height="50px">Git Activeness</b></i></p>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=itisaby.itisaby)
 ![itisaby GitHub stats](https://github-readme-stats.vercel.app/api?username=itisaby&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itisaby&theme=radical)](https://git.io/streak-stats)
