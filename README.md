@@ -16,6 +16,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [How to sign commits for any open source Projects](https://itisaby.hashnode.dev/how-to-sign-commits-for-any-open-source-projects)
 <!-- BLOG-POST-LIST:END -->
 
 
