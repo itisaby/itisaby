@@ -16,6 +16,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Learning Docker As a Newbie: Part 2](https://itisaby.hashnode.dev/learning-docker-as-a-newbie-part-2)
 - [Learning Docker 🐋 as Newbie: Part 1](https://itisaby.hashnode.dev/learning-docker-as-newbie-part-1)
 - [My First Month Learning DevOps | AWS | Docker Basics | Linux Basics | CN](https://itisaby.hashnode.dev/my-first-month-learning-devops)
 - [How to sign commits for any open source Projects](https://itisaby.hashnode.dev/how-to-sign-commits-for-any-open-source-projects)
