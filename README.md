@@ -22,8 +22,8 @@
 - [How to sign commits for any open source Projects](https://itisaby.hashnode.dev/how-to-sign-commits-for-any-open-source-projects)
 <!-- BLOG-POST-LIST:END -->
 
-## Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ArnabMaity_01)](https://github.com/gazf/github-readme-twitter)
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ArnabMaity_01&layout=wide&show_retweet=on)](https://github.com/gazf/github-readme-twitter)
 
 ## Connect with me:
 
