@@ -1,8 +1,6 @@
+![image](https://user-images.githubusercontent.com/69429511/199188284-afca1943-6e07-46dd-8317-b225e7e204f8.png)
+
 # Hey all! <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "30" height= "30"> <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
-
-
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArnabMaity_01)]
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1FF749&size=30&width=500&lines=Hey!+it's+Arnab!;I'm+a+learning+Developer!;Love+to+Contribute+in+Open+Source;Proud+GitHub+User+%3A)](https://git.io/typing-svg)
 
