@@ -1,4 +1,8 @@
 ![image](https://user-images.githubusercontent.com/69429511/199188284-afca1943-6e07-46dd-8317-b225e7e204f8.png)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itisaby/count.svg" />
+</p>
 
 # Hey all! <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "30" height= "30"> <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
@@ -24,7 +28,6 @@
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ArnabMaity_01&layout=wide&show_retweet=on)](https://github.com/gazf/github-readme-twitter)
 
 ## Connect with me:
-
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -139,7 +142,6 @@
 
 <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/> -->
 &nbsp;<i><b height="50px">Git Activeness</b></i></p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=itisaby.itisaby)
 ![itisaby GitHub stats](https://github-readme-stats.vercel.app/api?username=itisaby&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itisaby&theme=radical)](https://git.io/streak-stats)
 [![Most Languages Used:](https://github-readme-stats.vercel.app/api/top-langs?username=itisaby&show_icons=&theme=radical&layout=compact)](https://git.io/streak-stats) 
