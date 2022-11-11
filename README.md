@@ -120,11 +120,11 @@
 
 
 
-## Machine Learning ToolBox
+<!-- ## Machine Learning ToolBox
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> -->
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
-***Proficient with...***
-<br>
+<!-- ***Proficient with...*** -->
+<!-- <br>
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" height="40" /> 
@@ -133,8 +133,8 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="40" />  
-
-<br>
+ -->
+<!-- <br>  -->
 
 
 <br />
