@@ -18,6 +18,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [AWS Elastic Beanstalk With Terraform](https://itisaby.hashnode.dev/aws-elastic-beanstalk-with-terraform)
 - [Learning Docker As a Newbie: Part 2](https://itisaby.hashnode.dev/learning-docker-as-a-newbie-part-2)
 - [Learning Docker 🐋 as Newbie: Part 1](https://itisaby.hashnode.dev/learning-docker-as-newbie-part-1)
 - [My First Month Learning DevOps | AWS | Docker Basics | Linux Basics | CN](https://itisaby.hashnode.dev/my-first-month-learning-devops)
