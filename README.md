@@ -12,7 +12,7 @@
 
 - 🔭 I'm a stargazer and can name all the constellations in the night sky.
 - 👯 I’m looking to collaborate with other developers to work on a Mega Project
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton and Tennis ....
 
 ## My Latest Blog Posts 👇
