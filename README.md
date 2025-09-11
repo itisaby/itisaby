@@ -20,9 +20,6 @@
 - [My First Month Learning DevOps | AWS | Docker Basics | Linux Basics | CN](https://itisaby.hashnode.dev/my-first-month-learning-devops)
 <!-- BLOG-POST-LIST:END -->
 
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ArnabMaity_01&layout=wide&show_retweet=on)](https://github.com/gazf/github-readme-twitter)
-
 ## Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
