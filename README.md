@@ -1,7 +1,5 @@
 # Hi there, I'm Arnab! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=22&width=440&lines=Machine+Learning;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
-
 ## 🚀 About Me
 
 I'm a Computer Science graduate student at Johns Hopkins University and experienced DevOps Engineer with a passion for cloud-native technologies and scalable solutions. Currently expanding expertise in machine learning, deep learning, and enterprise software development.
