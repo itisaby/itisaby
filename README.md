@@ -9,7 +9,7 @@ I'm a Computer Science graduate student at Johns Hopkins University and experien
 - 🔭 **Currently exploring:** Machine Learning, Deep Learning, and Cloud Architecture
 - 👯 **Open to collaborate on:** Cloud-native applications, DevOps automation, and ML projects
 - 🎯 **2025 Goal:** Continuous learning and contributing to innovative tech solutions
-- ⚡ **Fun fact:** Astronomy enthusiast who can identify constellations, and I enjoy badminton and tennis
+- ⚡ **Fun fact:** I enjoy badminton and tennis
 
 ## 🛠️ Tech Stack
 
