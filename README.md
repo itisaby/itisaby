@@ -8,7 +8,7 @@ I'm a Computer Science graduate student at Johns Hopkins University and experien
 - 💼 **Experience:** Former Associate at PwC, DevOps Engineer Intern at Upraised
 - 🔭 **Currently exploring:** Machine Learning, Deep Learning, and Cloud Architecture
 - 👯 **Open to collaborate on:** Cloud-native applications, DevOps automation, and ML projects
-- 🎯 **2025 Goal:** Continuous learning and contributing to innovative tech solutions
+- 🎯 **2026 Goal:** Continuous learning and contributing to innovative tech solutions
 - ⚡ **Fun fact:** I enjoy badminton and tennis
 
 ## 🛠️ Tech Stack
